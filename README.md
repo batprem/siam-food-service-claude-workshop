@@ -28,7 +28,7 @@ git clone https://github.com/batprem/siam-food-service-claude-workshop.git
 | `expense_report_jul/aug/sep.xlsx` | Workshop 2.2 | รายงานค่าใช้จ่ายรายเดือน แต่ละไฟล์มี ~5 รายการที่ผิดนโยบาย |
 | `expense_policy.md` | Workshop 2.2 | นโยบายเบิกค่าใช้จ่ายฉบับย่อ ใช้คู่กับไฟล์ expense |
 | `messy_folder/` | Workshop 2.3 "จัดไฟล์" | ไฟล์ตั้งชื่อมั่ว 16 ไฟล์ ให้ Claude เสนอโครงสร้างและเปลี่ยนชื่อ |
-| `dog-cat-dataset/` | Workshop 2.4 "ให้ Claude ดูรูป" | รูปหมา 3 / แมว 3 (โฟลเดอร์ `dogs/`, `cats/`) ให้ Claude ดูรูป จัดหมวด ทำตารางสรุป และเขียนกฎการจำแนก — ซ้อมก่อนใช้กับรูปสินค้า/รูป QC จริง |
+| `dog-cat-dataset/` | Workshop 2.4 "ให้ Claude ดูรูป" | รูปหมาและแมวปนกัน 6 ไฟล์ในโฟลเดอร์เดียว (ชื่อไฟล์ไม่บอกใบ้) ให้ Claude ดูรูป แยกเป็นโฟลเดอร์ dogs/ cats/ ทำตารางสรุป และเขียนกฎการจำแนก — ซ้อมก่อนใช้กับรูปสินค้า/รูป QC จริง |
 | **module-3-prompt-and-skill/** | Module 3: Prompt และ Skill | |
 | `sales_daily.xlsx` | Workshop 3.1 | ยอดขายรายวัน ก.ค.–ก.ย. 2569 (ส.ค. ≈ 11.4 ล้าน ต่ำกว่าเป้า 12 ล้าน) |
 | `complaints.txt` | Workshop 3.2 | ข้อร้องเรียน 12 รายการจาก LINE OA มี lot ซ้ำ 3 ครั้ง และ 2 รายการไม่ระบุสินค้า |
