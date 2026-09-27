@@ -34,7 +34,7 @@ git clone https://github.com/batprem/siam-food-service-claude-workshop.git
 | `complaints.txt` | Workshop 3.2 | ข้อร้องเรียน 12 รายการจาก LINE OA มี lot ซ้ำ 3 ครั้ง และ 2 รายการไม่ระบุสินค้า |
 | `qa_severity_criteria.md` | Workshop 3.2 | เกณฑ์ สูง/กลาง/ต่ำ สำหรับคัดกรองข้อร้องเรียน |
 | `sales_mock.csv` | Workshop 3.3 HTML dashboard | ยอดขาย 12 เดือน × หมวด × ภูมิภาค × SKU (720 แถว) |
-| `inventory_mock.xlsx` | Workshop 3.3 / Capstone | สต็อก 200 รายการ 3 คลัง ~15% หมดอายุภายใน 30 วันจาก 25 ก.ย. 2569 |
+| `inventory_mock.xlsx` | Module 2 Lab 3 (Project) / Workshop 3.3 / Capstone | สต็อก 200 รายการ 3 คลัง ~15% หมดอายุภายใน 30 วันจาก 25 ก.ย. 2569 |
 | `SKILL_TEMPLATE.md` | Workshop 3.4 | แม่แบบเขียน SKILL.md |
 | `example-skills/` | Workshop 3.4 | ตัวอย่าง skill 3 ตัว: sales-visit-report, expense-policy-check, complaint-triage |
 | `company_template.pptx` | Workshop 3.5 | เทมเพลตสไลด์ 3 แบบ (ปก / คั่นส่วน / เนื้อหา) |
